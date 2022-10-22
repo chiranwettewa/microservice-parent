@@ -9,7 +9,7 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 
 @Entity
-@Table(name="table_orders")
+@Table(name="table_order_line_items")
 @Getter
 @Setter
 @NoArgsConstructor
