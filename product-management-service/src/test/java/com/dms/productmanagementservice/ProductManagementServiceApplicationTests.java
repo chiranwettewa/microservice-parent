@@ -28,7 +28,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @AutoConfigureMockMvc
 class ProductManagementServiceApplicationTests {
 
-	@Container
+	/*@Container
 	static MongoDBContainer mongoDBContainer = new MongoDBContainer("mongo:4.4.2");
 
 	@Autowired
@@ -62,6 +62,6 @@ class ProductManagementServiceApplicationTests {
 				.description("")
 				.price(BigDecimal.valueOf(1200))
 				.build();
-	}
+	}*/
 
 }

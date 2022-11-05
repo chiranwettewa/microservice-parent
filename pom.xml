@@ -18,6 +18,7 @@
         <module>order-management-service</module>
         <module>product-management-service</module>
         <module>discovery-management-service</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
